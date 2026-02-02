@@ -1,0 +1,7 @@
+{
+  "name": "Smart Pill Reminder for Seniors",
+  "description": "A high-accessibility pill reminder application designed for seniors, featuring AI-powered medication label scanning and family notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
